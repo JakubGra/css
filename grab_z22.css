@@ -1,0 +1,16 @@
+p{
+    font-size: 20px;
+    color: red;
+}
+
+#gruby_grabski{
+    font-size: 17pt;
+    font-weight: bold;
+    color: green;
+}
+#dlaWszystkich_grabski {
+    color: yellow;
+    font-size: 10pt;
+    font-family: Arial;
+}
+/* Jakub Grabski 05.06.2022 */
